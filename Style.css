@@ -1,0 +1,34 @@
+h1{
+    color :rgb(255, 0, 0)
+}
+
+.header{
+    background-color: chartreuse;
+    display :flex;
+    justify-content: space-evenly;
+    border :solid
+    }
+
+.gameBox{
+    background-color: crimson;
+    display:flex;
+    justify-content: space-evenly;
+    border :solid
+}
+p{
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+}
+.game{
+    background-color:turquoise;
+}
+.footer{
+    background-color: #FFFF00;
+    display:flex;
+    justify-content: flex-end;
+}
+body{
+    background-color: #000000 ;
+
+}
